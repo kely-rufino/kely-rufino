@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there, my name is Kely.👋
 
-<!--
-**kely-rufino/kely-rufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer who attended Bath Spa University Web Development Bootcamp October 2021 Cohort.
+My degree is in Business Management, and I have experience working in customer service, project and process management.
 
-Here are some ideas to get you started:
+I have significant experience within service/IT support and am conversant with the processes used to support the customer services function.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current skills are HTML, CSS, JavaScript, Tailwind CSS.
+
+Apart from coding, I love cooking, gardening, photography and design.
+
+You can find me on linkedin https://www.linkedin.com/in/kely-rufino
+
+
