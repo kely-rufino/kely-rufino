@@ -7,6 +7,8 @@ I have significant experience within service/IT support and am conversant with t
 
 My current skills are HTML, CSS, JavaScript, Tailwind CSS.
 
+Learning React.
+
 Apart from coding, I love cooking, gardening, photography and design.
 
 You can find me on linkedin https://www.linkedin.com/in/kely-rufino
