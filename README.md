@@ -1,8 +1,8 @@
 ### 🤖  Hey there, my name is Kely.
 
-👩‍💻 I am a Web Developer who attended Bath Spa University Web Development Bootcamp October 2021 Cohort.
+👩‍💻 I am a Student Science Student at Solent University
 
-🔧 Building web pages and apps using HTML, CSS, JavaScript, Tailwind CSS and React.
+🔧 Learning to build some stuff using code
 
 🔹 Apart from coding, I love cooking, gardening, and photography
 
