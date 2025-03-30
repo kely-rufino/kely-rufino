@@ -1,6 +1,6 @@
 ### 🤖  Hey there, my name is Kely.
 
-👩‍💻 I am a Student Science Student at Solent University
+👩‍💻 I am a Computer Science Student at Solent University
 
 🔧 Learning to build some stuff using code
 
